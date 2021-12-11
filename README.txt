@@ -18,7 +18,7 @@
 
 - Just, Clone this repository -
 ```
-$ git clone git://github.com/htr-tech/zphisher.git
+$ git clone https://github.com/mikehawk1337/hawkphish.git
 ```
 
 - Change to cloned directory and run `hawkphish.sh` -
